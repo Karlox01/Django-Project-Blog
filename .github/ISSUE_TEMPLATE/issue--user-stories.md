@@ -1,5 +1,5 @@
 ---
-name: View post list
+name: 'Issue: User Stories'
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
