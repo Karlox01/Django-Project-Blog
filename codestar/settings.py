@@ -32,6 +32,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+X_FRAME_OPTIONS = 'SAMEORIGIN'
+
 ALLOWED_HOSTS = ['djangito-4d1cf30901c8.herokuapp.com', '8000-karlox01-djangoprojectb-u1da0a6a7px.ws-eu104.gitpod.io']
 
 
